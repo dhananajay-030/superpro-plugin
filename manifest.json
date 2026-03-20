@@ -1,0 +1,8 @@
+{
+  "name": "SuperPro Plugin",
+  "version": "0.1.0",
+  "author": "dhananajay-030",
+  "description": "Study groups, insights, timer & community for Super Productivity",
+  "main": "plugin.js",
+  "permissions": ["task:read", "task:write", "storage"]
+}
